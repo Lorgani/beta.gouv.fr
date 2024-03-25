@@ -20,7 +20,6 @@ badges:
   - segur
 competences:
   - Développement Backend
-  - Développement Frontend
 teams:
   - /teams/communaute-dinum
 ---
