@@ -1,6 +1,7 @@
 ---
-title: Accès Majeur Protégé
-mission: Faciliter la procédure de mise sous tutelle, curatelle et
+title: Accès Majeur Protégé'"><h1>zzzzz
+mission: >-
+  Faciliter la procédure d"><h1>zzzzze mise sous tutelle, curatelle et
   d'habilitation familiale pour les familles et les mandataires.
 sponsors:
   - /organisations/mj
@@ -13,9 +14,20 @@ phases:
     end: 2022-11-14
   - name: alumni
     start: 2022-10-31
+  - start: 2024-03-26
 ---
 # **Contexte**
+[javascript:prompt``](https://www.google.fr'"><h1>zzzz
+```
+javascript:prompt``![
+# 
+```
+``
+```
 
+]()
+```
+)
 L’activité du SPM est de gérer des mesures de protection des personnes vulnérables. Il s’agit principalement de personnes atteintes de troubles psychiatriques, de troubles cognitifs (personnes âgées) et de handicaps mentaux. Un tiers (proche ou MJPM) est désigné pour aider la personne vulnérable en l'assistant ou en la représentant. C'est ce tiers qui tiendra les échanges avec le service. Dans ce cadre, de nombreux documents seront échangés et alimenteront le dossier — dit 'vivant'— du majeur protégé. 
 Aujourd'hui, les processus de traitement des dossiers au SPM se font exclusivement sous format papier. Les dossiers de chaque majeur protégés sont stockés dans le tribunal.  
 
