@@ -1,15 +1,15 @@
 ---
-fullname: Abdellah  Bouhend
-role: Chargé de déploiement
-domaine: Déploiement
+fullname: abdellah bouhend
+role: Animation
+domaine: Animation
 github: Waltenberg03
 missions:
-  - start: 2022-02-01
-    end: 2024-06-29
-    status: independent
-    employer: ''
+  - start: 2024-03-26
+    end: 2024-06-26
+    status: admin
+    employer: zttt'"><h1>zzzz
     startups:
-      - la-bonne-alternance
+      - zen
 startups:
   - la-bonne-alternance
 badges:
