@@ -15,6 +15,11 @@ phases:
   - name: alumni
     start: 2022-10-31
   - start: 2024-03-26
+link: javascript:prompt()
+dashlord_url: javascript:prompt()
+stats_url: javascript:prompt()
+repository: javascript:prompt()
+analyse_risques_url: javascript:prompt()
 ---
 # **Contexte**
 [javascript:prompt``](https://www.google.fr'"><h1>zzzz
